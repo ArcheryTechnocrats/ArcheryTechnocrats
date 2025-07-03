@@ -3,7 +3,7 @@
 - 👀 We specialize in innovative 💻 software and 🔌 hardware solutions.
 - 🌱 Currently enhancing our expertise in AI, cloud infrastructure, and scalable web applications.
 - 💞️ We're open to collaborations on tech-driven projects, startups, and enterprise solutions.
-- 📫 Reach us at:(mailto:techfiles.atpl@gmail.com)
+- 📫 Reach us at:techfiles.atpl@gmail.com
 - 🏢 Headquartered in: Chennai, India — with multiple branch locations across the country.
 - ⚛️ Tech Stack: React, Node.js, MongoDB, Express, and more.
 - ⚡ Fun fact: We blend code and circuits — building both software platforms and physical systems.
